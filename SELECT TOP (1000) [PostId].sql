@@ -1,0 +1,5 @@
+SELECT TOP (1000) [PostId]
+      ,[Title]
+      ,[Content]
+      ,[BlogId]
+  FROM [Blogs_48_AMS].[dbo].[Posts]
